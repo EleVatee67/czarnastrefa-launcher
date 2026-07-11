@@ -1,0 +1,5 @@
+{
+  "processNames": ["cheatengine", "eulen", "redengine", "skript", "hxmenu", "lynx", "injector"],
+  "fileNames": ["menu.dll", "cheat", "injector", "hack", ".asi"],
+  "scanFolders": ["{FIVEM}\\FiveM.app\\plugins", "%LOCALAPPDATA%\\FiveM\\FiveM.app\\plugins"]
+}
