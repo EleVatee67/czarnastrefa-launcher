@@ -1,14 +1,14 @@
 [
   {
-    "title": "AKTUALIZACJA v1.1.5 - nowe funkcje i zabezpieczenia!",
+    "title": "WAZNE: wejscie tylko przez launcher + logowanie Discord!",
     "date": "2026-07-12",
     "highlight": true,
-    "content": "NOWOSCI: boczny panel z kategoriami (nawigacja bez zamykania okien), avatary wlascicieli serwera z Discorda ze statusem online, wieksze okno, Season Pass, profil Discord ze statystykami z serwera, pelnoekranowy ekran ladowania z muzyka, wyrazniejsze kolory. ZABEZPIECZENIA: wejscie na serwer TYLKO przez launcher (weryfikacja Discord), skan anti-cheat przed startem gry, system banow po HWID i koncie Discord (odblokowanie tylko przez unban na serwerze), limit 2 kont Discord na jeden komputer, sprawdzanie spojnosci plikow gry przed uruchomieniem, zaciemnienie (obfuskacja) kodu launchera. Launcher aktualizuje sie sam - miłej gry!"
+    "content": "Na serwer wejdziesz teraz WYLACZNIE przez oficjalny launcher, po zalogowaniu przez Discord (miej wlaczonego Discorda w grze). System banow: ban blokuje caly launcher (klodka + ticket), a odblokowanie nastepuje tylko po unbanie. Limit 2 kont Discord na komputer. Anti-cheat sprawdza gre przed startem. NOWY ekran ladowania pokazuje aktualnosci do czytania i licznik graczy z trybem kolejki. Launcher aktualizuje sie sam!"
   },
   {
-    "title": "Aktualizacja v1.1.4 - nowy ekran ladowania!",
-    "date": "2026-07-11",
-    "content": "Nowe tlo ekranu ladowania na pelnym ekranie, muzyka podczas ladowania oraz sterowanie glosnoscia (suwak + wyciszenie, ustawienia sa zapamietywane)."
+    "title": "AKTUALIZACJA v1.1.5 - nowe funkcje",
+    "date": "2026-07-12",
+    "content": "Boczny panel z kategoriami, avatary wlascicieli serwera ze statusem online, wieksze okno, Season Pass, profil Discord ze statystykami z serwera, pelnoekranowy ekran ladowania z muzyka."
   },
   {
     "title": "Wielka aktualizacja launchera v1.1.2!",
