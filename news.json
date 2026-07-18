@@ -1,19 +1,20 @@
 [
   {
+    "title": "Pakiet HYPER — już dostępny!",
+    "date": "2026-07-18",
+    "lava": true,
+    "content": "Najwyższa, DOŻYWOTNIA ranga wkroczyła do sklepu. HYPER to pełen pakiet DIAMOND, 100 000 punktów co tydzień (bezterminowo), HYPER Bilet z gwarantowanym wejściem na serwer oraz ekskluzywna ranga HYPER — w grze i na Discordzie. Płacisz raz, korzystasz na zawsze. Zajrzyj do zakładki PAKIETY!"
+  },
+  {
     "title": "WAZNE: wejscie tylko przez launcher + logowanie Discord!",
     "date": "2026-07-12",
     "highlight": true,
-    "content": "Na serwer wejdziesz teraz WYLACZNIE przez oficjalny launcher, po zalogowaniu przez Discord (miej wlaczonego Discorda w grze). System banow: ban blokuje caly launcher (klodka + ticket), a odblokowanie nastepuje tylko po unbanie. Limit 2 kont Discord na komputer. Anti-cheat sprawdza gre przed startem. NOWY ekran ladowania pokazuje aktualnosci do czytania i licznik graczy z trybem kolejki. Launcher aktualizuje sie sam!"
+    "content": "Na serwer wejdziesz teraz WYLACZNIE przez oficjalny launcher, po zalogowaniu przez Discord. System banow: ban blokuje caly launcher (klodka + ticket), odblokowanie tylko po unbanie. Limit 2 kont Discord na komputer. Anti-cheat sprawdza gre przed startem. Launcher aktualizuje sie sam!"
   },
   {
     "title": "AKTUALIZACJA v1.1.5 - nowe funkcje",
     "date": "2026-07-12",
     "content": "Boczny panel z kategoriami, avatary wlascicieli serwera ze statusem online, wieksze okno, Season Pass, profil Discord ze statystykami z serwera, pelnoekranowy ekran ladowania z muzyka."
-  },
-  {
-    "title": "Wielka aktualizacja launchera v1.1.2!",
-    "date": "2026-07-11",
-    "content": "Pelnoekranowy ekran ladowania z muzyka, SEASON PASS z nagrodami, profil Discord ze statystykami z serwera, wieksze okno i wybor serwera RolePlay/Bojowka."
   },
   {
     "title": "Witamy w launcherze Czarna Strefa!",
